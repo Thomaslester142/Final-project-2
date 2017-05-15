@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript">
+        function Reset (form) {
+            form.reset ();
+        }
+    </script>
+  </head>
+  <body>
+  </body>
+    <form>
+       <button onclick="Reset (form);">Reset!</button>
+   </form>
+    <h1>Space Dodgers</h1>
+    <h2>Directions:</h2>
+    <ol>
+      <li>Survive for as long as you can!</li>
+      <li>Dodge the other space ships with your arrow keys.</li>
+      <li>The longer you survive, the higher your score gets.</li>
+      <li>Press the "Start!" button when you are ready!.</li>
+      <li>Press the "Reset!" button to reset if killed.</li>
+    </ol>
+
+
+    <button onclick="animate1()">Start!</button>
+    <svg id="canvas" width="100%" viewBox="0 0 200 100">
+    </svg>
+    <script src="final_project.js"></script>
+  </body>
+</html>

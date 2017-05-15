@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+
+body {
+  background-image: url("http://www.animateit.net/data/media/august2009/twi.gif");
+height: 100%;
+width: 100%;
+
+}
+
+h1 {
+ color: yellow;
+ text-align: center;
+font-family: 'Monoton', cursive;
+font-size: 60px;
+}
+
+h2 {
+  color: yellow;
+  font-size: 30px;
+  font-family: 'Bree Serif', serif;
+  margin-left:40px
+}
+
+p, ol {
+  color: yellow;
+  font-family: 'Bree Serif', serif;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+button {
+  display: block;
+  margin: auto;
+  margin-top:15px;
+  margin-bottom:35px;
+}
