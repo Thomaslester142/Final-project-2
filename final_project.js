@@ -6,6 +6,7 @@ var asteroid = makeImage("http://ecx.images-amazon.com/images/I/71xwHBvIB8L.png"
 var asteroid2 = makeImage("http://ecx.images-amazon.com/images/I/71xwHBvIB8L.png", 140, 45, 22, 20, 1.0)
 var asteroid3 = makeImage("http://bestanimations.com/Earth&Space/space-comet-asteroid-animation.gif", 90, 70, 22, 20, 1.0)
 var moon = makeImage("http://a1star.com/images/moonphs.gif", 130, 70, 22, 20, 1.0)
+var man_on_moon = makeImage("https://www.amazing-animations.com/animations/spaceman5.gif", 135, 70, 10, 10, 1.0)
 var Player = makeImage("https://steamcdn-a.akamaihd.net/steam/apps/404800/extras/berserker@2x.png?t=1447378175", 90, 50, 12, 12, 1.0)
 var Enemy = makeImage("http://static1.squarespace.com/static/50c25455e4b0ef5720704c6b/54b94ba5e4b0b5bb4be6a892/54b94d72e4b0c2c1fae545b6/1421430256503/Spaceship.png", 60, 0, 20, 20, 1.0)
 var Enemy2 = makeImage("http://static1.squarespace.com/static/50c25455e4b0ef5720704c6b/54b94ba5e4b0b5bb4be6a892/54b94d72e4b0c2c1fae545b6/1421430256503/Spaceship.png", 90, 0, 20, 20, 1.0)
